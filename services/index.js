@@ -13,7 +13,7 @@ export const getPosts = async () => {
                             name
                             id
                             photo {
-                            url
+                                url
                             }
                         }
                         createdAt
